@@ -9,7 +9,7 @@ WrapSqlmap is a reworked sqlmap with some modifications for automation.
 Installation:
 
 1. Install python 3 https://www.python.org/downloads/. When installing, check all the checkboxes to install python correctly .
-2. Download WrapSqlmap
+2. Download WrapSqlmap https://github.com/ZMSkif/WrapSqlmap/archive/refs/heads/master.zip
 3. Run python wrapper.py or run through wrapper.bat(Windows)
 4. Follow the instructions in the console to install the missing modules through the command pip install "Module"
 5. Re-run wrapper in any way you feel fit to check for all the modules.
@@ -29,7 +29,7 @@ WrapSqlmap - это переработанный sqlmap с некоторыми 
 Установка:
 
 1. Установите python 3 https://www.python.org/downloads/. При установке установите все флажки, чтобы правильно установить python .
-2. Скачайте WrapSqlmap
+2. Скачайте WrapSqlmap  https://github.com/ZMSkif/WrapSqlmap/archive/refs/heads/master.zip
 3. Запустите python wrapper.py или запустите через wrapper.bat (Windows).
 4. Следуйте инструкциям в консоли для установки недостающих модулей через команду pip install "Module"
 5. Повторно запустите wrapper любым удобным для вас способом, чтобы проверить наличие всех модулей.
