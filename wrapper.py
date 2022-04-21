@@ -309,6 +309,8 @@ def sqlmap_dump(url, check_timeout, proxy=None):
                 '--batch',
                 '--hex',
                 '--beep',
+                '--ignore-redirects',
+                '--ignore-code=401,404,400,500,502',
                 '--check-internet',
                 '--time-sec=5',
                 '--level=%s' % wrapper_config.LEVEL,
