@@ -307,8 +307,6 @@ def sqlmap_dump(url, check_timeout, proxy=None):
                 'sqlmap.py',
                 '--url=%s' % url,
                 '--batch',
-                '--hex',
-                '--beep',
                 '--ignore-redirects',
                 '--ignore-code=401,404,400,500,502',
                 '--check-internet',
@@ -332,7 +330,6 @@ def sqlmap_dump(url, check_timeout, proxy=None):
                 '--exclude-sysdbs',
                 '--timeout=%s' % wrapper_config.TIMEOUT,
                 '--retries=%s' % wrapper_config.RETRIES,
-                '--technique=EUSQ',
             ])
         psu_process = Process(process.pid)
         try:
