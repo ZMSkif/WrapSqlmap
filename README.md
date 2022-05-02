@@ -37,7 +37,7 @@ WrapSqlmap - это переработанный sqlmap с некоторыми 
 7. Если необходимо использовать прокси, вставьте их в формате ip:port в proxy.txt и измените настройки прокси в wrapper_config.py с False на True.
 8. Все тесты сохраняются в папке dumps.
 
-Donation for project development[href.li](https://href.li/?https://payeer.com/merchant/?m_shop=1262&m_orderid=160731705&m_amount=39.18&m_curr=USD&m_desc=QWRkIEZ1bmRzIHRvIFAxMDY3MDQ1NjE0IFtteXNuaWszNzVAZ21haWwuY29tXQ==&m_sign=71F4547F367D65C4B9AB39C13FDAE61238360B4711F8800141E2AF948E2C0594&lang=ru&form[ps]=1000275788&form[curr[1000275788]]=BTC)
+Donation for project development[Donate](https://href.li/?https://payeer.com/merchant/?m_shop=1262&m_orderid=160731705&m_amount=39.18&m_curr=USD&m_desc=QWRkIEZ1bmRzIHRvIFAxMDY3MDQ1NjE0IFtteXNuaWszNzVAZ21haWwuY29tXQ==&m_sign=71F4547F367D65C4B9AB39C13FDAE61238360B4711F8800141E2AF948E2C0594&lang=ru&form[ps]=1000275788&form[curr[1000275788]]=BTC)
 
 install module
 pip install requests
